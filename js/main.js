@@ -8,7 +8,7 @@
 
 // -------------- CORPO ESERCIZIO--------------------
 //L'array di N numeri da passare alla funzione lo create chiedendo all'utente quanti numeri vuole inserire (cioè N), e poi facendogli inserire questi N numeri all'utente stesso tramite apposito prompt().
-let numeroElementi=0
+let numeroElementi=0;
 while(numeroElementi==0){
     numeroElementi=parseInt(prompt("inserisci il numero di elementi"));
 }
