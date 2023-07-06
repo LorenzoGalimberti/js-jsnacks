@@ -1,0 +1,19 @@
+
+.w_25vh{
+    width: 25vh;
+}
+.w_100{
+    width: 100px;
+}
+.h_100{
+    height: 100px;
+}
+body{
+    height: 100vh;
+}
+
+/* .square {
+    width: 100%;
+    padding-bottom: 100%;
+    background-color: #ccc;
+  } */
